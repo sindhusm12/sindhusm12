@@ -40,8 +40,8 @@ I focus on writing clean, maintainable, and efficient code using *modern Java fr
 ### 🧩 Featured Projects
 
 #### 🪐 [StarQuest – Rise to Fame with Expert Guidance](https://github.com/yourusername/starquest)
-> A talent discovery and mentorship platform built using *Spring Boot, **React, and **MySQL*.  
-> Implements secure authentication, role-based access, and responsive UI.
+> It is a platform designed for aspiring individuals like musician, dancers, and talented people to connect with the industry experts or mentors. 
+> We use a technologies like HTML, CSS, PHP and MySQL. 
 
 ---
 
