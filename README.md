@@ -13,7 +13,6 @@ I have developed and deployed multiple projects involving *user authentication, 
 I always follow clean coding practices, version control workflows, and agile methodologies.  
 Currently, I’m expanding my skills in *Microservices, AWS Cloud Deployment, and CI/CD automation* to strengthen my backend and DevOps knowledge.
 
-💡 I believe that continuous learning and collaboration are the keys to innovation in software development.
 ---
 
 ### 🧠 Technical Skills
