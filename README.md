@@ -40,8 +40,8 @@ I focus on writing clean, maintainable, and efficient code using *modern Java fr
 ### 🧩 Featured Projects
 
 #### 🪐 [StarQuest – Rise to Fame with Expert Guidance](https://github.com/yourusername/starquest)
-> It is a platform designed for aspiring individuals like musician, dancers, and talented people to connect with the industry experts or mentors. 
-> We use a technologies like HTML, CSS, PHP and MySQL. 
+> It is a platform designed for aspiring individuals like musician, dancers, and talented people to connect with the industry experts or mentors. They can help them to build their carrer.
+> We use a technologies like HTML, CSS, PHP and MySQL. The main aim of our project is the talented people can showcase their talent easilt through our web application.
 
 ---
 
