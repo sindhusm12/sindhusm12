@@ -4,14 +4,16 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate *Java Full Stack Developer* with hands-on experience in designing, developing, and deploying robust web applications.  
-I focus on writing clean, maintainable, and efficient code using *modern Java frameworks and front-end technologies*.
+I’m a passionate and dedicated *Java Full Stack Developer* with hands-on experience in designing, developing, and deploying full-featured web applications.  
+My core expertise lies in *Java, Spring Boot, Hibernate, REST APIs, React.js, and MySQL* — with a deep understanding of how backend systems and front-end interfaces work together to deliver seamless performance.
 
-- 🌱 Currently enhancing my expertise in *Spring Boot, Microservices, and Cloud Deployment (AWS)*
-- 💬 Ask me about *Java, Spring Framework, Hibernate, REST APIs, React.js, and MySQL*
-- 💡 I love solving complex backend challenges and integrating seamless UI with powerful backend logic
-- ⚡ Fun fact: I debug faster with coffee ☕
+I enjoy building software that solves real-world problems with efficiency and clarity.  
+I have developed and deployed multiple projects involving *user authentication, database management, API integration, and cloud hosting*.  
 
+I always follow clean coding practices, version control workflows, and agile methodologies.  
+Currently, I’m expanding my skills in *Microservices, AWS Cloud Deployment, and CI/CD automation* to strengthen my backend and DevOps knowledge.
+
+💡 I believe that continuous learning and collaboration are the keys to innovation in software development.
 ---
 
 ### 🧠 Technical Skills
