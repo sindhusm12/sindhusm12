@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sindhu Suresh</h1>
+<h1 align="center">Hi 👋, I'm Sindhu S M</h1>
 <h3 align="center">💻 Java Full Stack Developer | Building Scalable Web Applications</h3>
 
 ---
