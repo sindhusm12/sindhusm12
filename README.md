@@ -43,13 +43,6 @@ I focus on writing clean, maintainable, and efficient code using *modern Java fr
 > A talent discovery and mentorship platform built using *Spring Boot, **React, and **MySQL*.  
 > Implements secure authentication, role-based access, and responsive UI.
 
-#### 🏢 [Employee Management System](https://github.com/yourusername/employee-management)
-> Full-stack CRUD application using *Spring Boot + React* for managing employee records efficiently.  
-> Integrated with *REST APIs* and *MySQL Database*.
-
-#### 💳 [E-Commerce Platform](https://github.com/yourusername/ecommerce-app)
-> Scalable online shopping system with *Spring Boot, **React, **JWT Authentication, and **Razorpay Payment Integration*.
-
 ---
 
 ### 📊 GitHub Stats
