@@ -75,9 +75,10 @@ Currently, I’m expanding my skills in *Microservices, AWS Cloud Deployment, an
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="sindhusureshsm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+<a href="https://hub.docker.com/u/sindhusm12/Sindhu S M">View my Docker Hub Image</a>
 </p>
 
 ---
